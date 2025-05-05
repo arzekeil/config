@@ -1,0 +1,140 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2025-05-05T00:03:21.229-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "JGraph.Draw"
+				},
+				{
+					"PackageIdentifier" : "dev47apps.DroidCamOBSClient"
+				},
+				{
+					"PackageIdentifier" : "Git.Git"
+				},
+				{
+					"PackageIdentifier" : "RProject.R"
+				},
+				{
+					"PackageIdentifier" : "Obsidian.Obsidian"
+				},
+				{
+					"PackageIdentifier" : "OpenJS.NodeJS.LTS"
+				},
+				{
+					"PackageIdentifier" : "TheDocumentFoundation.LibreOffice"
+				},
+				{
+					"PackageIdentifier" : "StrawberryPerl.StrawberryPerl"
+				},
+				{
+					"PackageIdentifier" : "EclipseAdoptium.Temurin.21.JDK"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AzureCLI"
+				},
+				{
+					"PackageIdentifier" : "Neovim.Neovim"
+				},
+				{
+					"PackageIdentifier" : "calibre.calibre"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell"
+				},
+				{
+					"PackageIdentifier" : "GoLang.Go"
+				},
+				{
+					"PackageIdentifier" : "AzaharEmu.Azahar"
+				},
+				{
+					"PackageIdentifier" : "Brave.Brave"
+				},
+				{
+					"PackageIdentifier" : "Posit.RStudio"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "WinSCP.WinSCP"
+				},
+				{
+					"PackageIdentifier" : "Python.Launcher"
+				},
+				{
+					"PackageIdentifier" : "Bitwarden.Bitwarden"
+				},
+				{
+					"PackageIdentifier" : "dbeaver.dbeaver"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord"
+				},
+				{
+					"PackageIdentifier" : "Hashicorp.Terraform"
+				},
+				{
+					"PackageIdentifier" : "Hugo.Hugo.Extended"
+				},
+				{
+					"PackageIdentifier" : "MedalB.V.Medal"
+				},
+				{
+					"PackageIdentifier" : "MiKTeX.MiKTeX"
+				},
+				{
+					"PackageIdentifier" : "Spotify.Spotify"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom.EXE"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.13"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams"
+				},
+        {
+          "PackageIdentifier" : "Neovim.Neovim",
+        },
+      ],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		},
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "XP8CBJ40XLBWKX"
+				},
+				{
+					"PackageIdentifier" : "XPFNZKSKLBP7RJ"
+				},
+				{
+					"PackageIdentifier" : "XPFFH613W8V6LV"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier" : "StoreEdgeFD",
+				"Name" : "msstore",
+				"Type" : "Microsoft.Rest"
+			}
+		}
+	],
+	"WinGetVersion" : "1.10.390"
+}

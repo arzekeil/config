@@ -1,10 +1,10 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
 	"CreationDate" : "2025-05-05T00:03:21.229-00:00",
-	"Sources" : 
+	"Sources" :
 	[
 		{
-			"Packages" : 
+			"Packages" :
 			[
 				{
 					"PackageIdentifier" : "JGraph.Draw"
@@ -102,11 +102,11 @@
 				{
 					"PackageIdentifier" : "Microsoft.Teams"
 				},
-        {
-          "PackageIdentifier" : "Neovim.Neovim",
-        },
+				{
+				"PackageIdentifier" : "Neovim.Neovim"
+				}
       ],
-			"SourceDetails" : 
+			"SourceDetails" :
 			{
 				"Argument" : "https://cdn.winget.microsoft.com/cache",
 				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
@@ -115,7 +115,7 @@
 			}
 		},
 		{
-			"Packages" : 
+			"Packages" :
 			[
 				{
 					"PackageIdentifier" : "XP8CBJ40XLBWKX"
@@ -127,7 +127,7 @@
 					"PackageIdentifier" : "XPFFH613W8V6LV"
 				}
 			],
-			"SourceDetails" : 
+			"SourceDetails" :
 			{
 				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
 				"Identifier" : "StoreEdgeFD",
